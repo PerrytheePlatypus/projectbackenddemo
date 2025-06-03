@@ -1,0 +1,368 @@
+/home/runner/workspace/obj/Debug/net6.0/EduSync.csproj.AssemblyReference.cache
+/home/runner/workspace/obj/Debug/net6.0/EduSync.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/obj/Debug/net6.0/EduSync.AssemblyInfoInputs.cache
+/home/runner/workspace/obj/Debug/net6.0/EduSync.AssemblyInfo.cs
+/home/runner/workspace/obj/Debug/net6.0/EduSync.csproj.CoreCompileInputs.cache
+/home/runner/workspace/obj/Debug/net6.0/EduSync.MvcApplicationPartsAssemblyInfo.cs
+/home/runner/workspace/obj/Debug/net6.0/EduSync.MvcApplicationPartsAssemblyInfo.cache
+/home/runner/workspace/bin/Debug/net6.0/appsettings.Development.json
+/home/runner/workspace/bin/Debug/net6.0/appsettings.json
+/home/runner/workspace/bin/Debug/net6.0/EduSync
+/home/runner/workspace/bin/Debug/net6.0/EduSync.deps.json
+/home/runner/workspace/bin/Debug/net6.0/EduSync.runtimeconfig.json
+/home/runner/workspace/bin/Debug/net6.0/EduSync.dll
+/home/runner/workspace/bin/Debug/net6.0/EduSync.pdb
+/home/runner/workspace/bin/Debug/net6.0/AutoMapper.dll
+/home/runner/workspace/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/runner/workspace/bin/Debug/net6.0/Azure.Core.dll
+/home/runner/workspace/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/home/runner/workspace/bin/Debug/net6.0/Azure.Storage.Common.dll
+/home/runner/workspace/bin/Debug/net6.0/Humanizer.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/runner/workspace/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/runner/workspace/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/runner/workspace/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/runner/workspace/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/runner/workspace/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/runner/workspace/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/home/runner/workspace/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/runner/workspace/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/runner/workspace/bin/Debug/net6.0/System.IO.Hashing.dll
+/home/runner/workspace/bin/Debug/net6.0/System.Memory.Data.dll
+/home/runner/workspace/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/runner/workspace/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/runner/workspace/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/runner/workspace/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/runner/workspace/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/runner/workspace/obj/Debug/net6.0/staticwebassets.build.json
+/home/runner/workspace/obj/Debug/net6.0/staticwebassets.development.json
+/home/runner/workspace/obj/Debug/net6.0/scopedcss/bundle/EduSync.styles.css
+/home/runner/workspace/obj/Debug/net6.0/EduSync.csproj.CopyComplete
+/home/runner/workspace/obj/Debug/net6.0/EduSync.dll
+/home/runner/workspace/obj/Debug/net6.0/refint/EduSync.dll
+/home/runner/workspace/obj/Debug/net6.0/EduSync.pdb
+/home/runner/workspace/obj/Debug/net6.0/EduSync.genruntimeconfig.cache
+/home/runner/workspace/obj/Debug/net6.0/ref/EduSync.dll
+/home/runner/workspace/bin/Debug/net6.0/Npgsql.dll
+/home/runner/workspace/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/runner/workspace/bin/Debug/net6.0/frontend-eduSync/package.json
+/home/runner/workspace/bin/Debug/net6.0/frontend-eduSync/public/manifest.json
+/home/runner/workspace/bin/Debug/net6.0/frontend/package.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.csproj.AssemblyReference.cache
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.AssemblyInfoInputs.cache
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.AssemblyInfo.cs
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.csproj.CoreCompileInputs.cache
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.sourcelink.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\appsettings.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\build\asset-manifest.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\build\manifest.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\package-lock.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\package.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\public\manifest.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\EduSync.staticwebassets.runtime.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\EduSync.staticwebassets.endpoints.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\EduSync.exe
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\EduSync.deps.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\EduSync.runtimeconfig.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\EduSync.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\EduSync.pdb
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Npgsql.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\scopedcss\bundle\EduSync.styles.css
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.EduSync.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.EduSync.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.build.EduSync.props
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduSync.props
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduSync.props
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.csproj.Up2Date
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\refint\EduSync.dll
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.pdb
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\EduSync.genruntimeconfig.cache
+C:\Users\window 10\OneDrive\Desktop\EduSyncServer\obj\Debug\net6.0\ref\EduSync.dll
+<<<<<<< HEAD
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\appsettings.Development.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\appsettings.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\build\asset-manifest.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\build\manifest.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\package-lock.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\package.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\public\manifest.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\EduSync.staticwebassets.runtime.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\EduSync.staticwebassets.endpoints.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\EduSync.exe
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\EduSync.deps.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\EduSync.runtimeconfig.json
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\EduSync.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\EduSync.pdb
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\AutoMapper.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Azure.Core.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Azure.Storage.Common.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Humanizer.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Npgsql.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.IO.Hashing.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.Memory.Data.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\EduSync\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.csproj.AssemblyReference.cache
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.GeneratedMSBuildEditorConfig.editorconfig
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.AssemblyInfoInputs.cache
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.AssemblyInfo.cs
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.csproj.CoreCompileInputs.cache
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.MvcApplicationPartsAssemblyInfo.cs
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.MvcApplicationPartsAssemblyInfo.cache
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.sourcelink.json
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\scopedcss\bundle\EduSync.styles.css
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\staticwebassets.build.json
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\staticwebassets.development.json
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.EduSync.Microsoft.AspNetCore.StaticWebAssets.props
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.EduSync.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.build.EduSync.props
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduSync.props
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduSync.props
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\staticwebassets.pack.json
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.csproj.Up2Date
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.dll
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\refint\EduSync.dll
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.pdb
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\EduSync.genruntimeconfig.cache
+F:\EduSync\EduSyncServer\obj\Debug\net6.0\ref\EduSync.dll
+=======
+>>>>>>> 154585fbdb710d465417253fc67e9ffc3eb11fae
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.csproj.AssemblyReference.cache
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.GeneratedMSBuildEditorConfig.editorconfig
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.AssemblyInfoInputs.cache
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.AssemblyInfo.cs
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.csproj.CoreCompileInputs.cache
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.MvcApplicationPartsAssemblyInfo.cs
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.MvcApplicationPartsAssemblyInfo.cache
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.sourcelink.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\appsettings.Development.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\appsettings.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\build\asset-manifest.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\build\manifest.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\package-lock.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\package.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\frontend-eduSync\public\manifest.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\EduSync.staticwebassets.runtime.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\EduSync.staticwebassets.endpoints.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\EduSync.exe
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\EduSync.deps.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\EduSync.runtimeconfig.json
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\EduSync.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\EduSync.pdb
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\AutoMapper.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Azure.Core.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Humanizer.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Npgsql.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.ClientModel.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Text.Json.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\scopedcss\bundle\EduSync.styles.css
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.EduSync.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.EduSync.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.build.EduSync.props
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduSync.props
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduSync.props
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.csproj.Up2Date
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.dll
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\refint\EduSync.dll
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.pdb
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\EduSync.genruntimeconfig.cache
+D:\EduSycServer\EduSyncServer\obj\Debug\net6.0\ref\EduSync.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Azure.Core.Amqp.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Azure.Messaging.EventHubs.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\EduSycServer\EduSyncServer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
